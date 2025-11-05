@@ -7,7 +7,7 @@ The goal is to classify data points from the **spiral dataset** (generated using
 
 ---
 
-## 🚀 Features
+##  Features
 - Fully-connected dense layers implemented manually  
 - Activation functions: ReLU and Softmax  
 - Loss functions: Categorical Cross-Entropy  
@@ -16,7 +16,7 @@ The goal is to classify data points from the **spiral dataset** (generated using
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 - **Python 3**
 - **NumPy**
 - **Matplotlib**
@@ -24,18 +24,18 @@ The goal is to classify data points from the **spiral dataset** (generated using
 
 ---
 
-## 📊 Dataset
+##  Dataset
 The **spiral dataset** is a 2D toy dataset used for demonstrating multi-class classification.  
 Each data point belongs to one of three intertwined spirals:
-- 🔴 Class 0 (Red)  
-- 🟢 Class 1 (Green)  
-- 🔵 Class 2 (Blue)  
+-  Class 0 (Red)  
+-  Class 1 (Green)  
+-  Class 2 (Blue)  
 
 This dataset is intentionally non-linearly separable — perfect for testing a neural network’s ability to learn complex boundaries.
 
 ---
 
-## 🧠 Learning Objectives
+##  Learning Objectives
 - Understand how forward and backward passes work mathematically  
 - Implement backpropagation and gradient updates manually  
 - Visualize how neural networks learn to separate non-linear data  
@@ -43,12 +43,12 @@ This dataset is intentionally non-linearly separable — perfect for testing a n
 
 ---
 
-## 📈 Results
+##  Results
 After training for several epochs, the model successfully learns to separate the spiral classes, achieving **high accuracy** and smooth **decision boundaries**.
 
 ---
 
-## 💡 Inspiration
+##  Inspiration
 This project is inspired by the book *[Neural Networks from Scratch (NNFS)](https://nnfs.io/)* by **Harrison Kinsley (Sentdex)** and **Daniel Kukieła**, which walks through neural network theory and implementation step-by-step.
 
 ---
