@@ -53,7 +53,22 @@ This project is inspired by the book *[Neural Networks from Scratch (NNFS)](http
 
 ---
 
-## 🧰 How to Run
+## Project Motivation
+
+Instead of jumping into ML using PyTorch or TensorFlow and immediately getting lost in abstraction.
+This project forces you to build everything from first principles so you understand:
+
+How data flows through layers
+
+How weights and biases update
+
+How loss gradients are computed
+
+Why neural networks can learn nonlinear patterns
+
+---
+
+## How to Run
 ```bash
 pip install numpy matplotlib nnfs
 python your_notebook.ipynb
